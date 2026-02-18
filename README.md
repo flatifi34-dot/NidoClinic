@@ -1,2 +1,0 @@
-# NidoClinic
-Nido APp
