@@ -1,0 +1,23 @@
+{
+  "name": "Nido Clinic",
+  "short_name": "Nido",
+  "description": "Platforma e Terapisë së të Folurit",
+  "start_url": "./Nido_Clinic_App.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#00838f",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
